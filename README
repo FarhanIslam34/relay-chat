@@ -1,0 +1,9 @@
+Assignment 7: Chat server/client
+Farhan and Jasmine
+
+This appplication has two programs, one for the server, one for the client
+When clients connect to the server, they can send messages that go to every 
+other client. They can also change their name that appears alongside their 
+messages
+
+
